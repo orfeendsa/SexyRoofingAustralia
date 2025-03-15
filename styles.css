@@ -88,7 +88,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                url('Images/Image.webp');
+                url('Image.webp');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -171,7 +171,7 @@ body {
 
 .services-image {
     height: 500px;
-    background: url('Images/Image 2.webp');
+    background: url('Image 2.webp');
     background-size: cover;
     background-position: center;
     border-radius: 20px;
